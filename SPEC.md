@@ -25,3 +25,6 @@ This is the instagram profile url
 This is the certification of the owner of the business. Had the 3 years plus experience
 
 
+public/certificate.png
+public/visiting_card.png
+Based on the public/visiting_card.png we can choose colors
